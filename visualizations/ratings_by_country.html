@@ -1,0 +1,32 @@
+import plotly.express as px
+import pandas as pd
+import os
+
+# Ensure visualizations folder exists
+os.makedirs('visualizations', exist_ok=True)
+
+# Load data
+df = pd.read_csv('netflix_data.csv')
+
+# Create box plot
+fig = px.box(
+    df,
+    x='Country',
+    y='Viewer_Rating',
+    title='Viewer Ratings by Country for Netflix Content',
+    labels={'Country': 'Country', 'Viewer_Rating': 'Viewer Rating (1-10)'}
+)
+
+# Customize layout
+fig.update_layout(
+    xaxis_title='Country',
+    yaxis_title='Viewer Rating (1-10)',
+    xaxis_tickangle=45,
+    showlegend=False
+)
+
+# Save as HTML
+fig.write_html('visualizations/ratings_by_country.html')
+
+# Display in Jupyter Notebook
+fig.show()
