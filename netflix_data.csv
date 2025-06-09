@@ -1,0 +1,251 @@
+Title,Type,Genre,Release_Year,Rating,Duration,Country,Viewer_Rating
+Movie_19,TV Show,Drama,2025,R,5,Canada,2.7
+Show_12,TV Show,Drama,2016,TV-MA,4,Japan,7.5
+Show_4,TV Show,Comedy,2008,R,8,UK,9.3
+Show_34,Movie,Thriller,2005,TV-14,84,UK,
+Movie_55,Movie,Romance,2002,PG-13,21,Brazil,1.5
+Show_52,Movie,Romance,2009,TV-14,37,USA,9.2
+Movie_102,Movie,Romance,2023,PG,65,,9.1
+Show_86,Movie,Action,2017,PG,136,Canada,1.7
+Movie_90,Movie,Action,2008,TV-PG,20,UK,5.1
+Show_8,Movie,Action,2009,TV-14,118,Canada,8.0
+Movie_39,Movie,Romance,2014,PG,60,France,9.6
+Movie_126,TV Show,Thriller,2025,PG,6,France,5.7
+Show_88,Movie,Romance,2009,R,39,Brazil,3.3
+Movie_27,TV Show,Drama,2005,TV-14,8,India,7.7
+Show_80,Movie,,2002,PG-13,110,India,7.3
+Movie_34,TV Show,Drama,2007,PG,10,Canada,4.9
+Movie_84,TV Show,Documentary,2021,R,7,USA,
+Movie_57,TV Show,Thriller,,R,4,USA,5.7
+Movie_39,TV Show,Thriller,2010,PG,2,India,
+Show_47,TV Show,Action,2025,TV-PG,6,India,1.3
+Movie_148,TV Show,Sci-Fi,2005,R,1,Japan,2.1
+Movie_133,Movie,Thriller,2006,PG-13,131,,4.8
+Movie_62,TV Show,Drama,2022,R,3,USA,5.1
+Show_39,Movie,Comedy,2012,TV-PG,144,UK,
+Show_59,Movie,Comedy,2023,R,161,France,
+Movie_102,TV Show,Thriller,2019,TV-14,1,France,3.2
+Movie_89,TV Show,Drama,2014,TV-PG,1,India,1.2
+Movie_70,Movie,Drama,2020,PG,55,UK,2.7
+Show_91,Movie,Sci-Fi,2004,TV-MA,171,India,
+Show_46,Movie,Action,2008,R,147,Canada,6.9
+Movie_31,TV Show,Comedy,2023,TV-14,3,France,2.0
+Movie_54,TV Show,Action,2010,TV-PG,10,UK,7.8
+Movie_132,TV Show,Action,2025,PG,9,Brazil,8.5
+Show_67,Movie,Documentary,2004,PG,46,France,7.8
+Movie_99,TV Show,Thriller,2025,PG,4,Canada,7.0
+Show_76,Movie,Drama,2003,PG-13,116,UK,1.9
+Movie_90,TV Show,Action,2019,TV-14,2,India,6.2
+Movie_111,TV Show,,2010,TV-PG,10,Brazil,2.9
+Movie_136,TV Show,Thriller,2020,TV-PG,5,India,7.8
+Movie_31,TV Show,Romance,2021,TV-PG,1,Japan,
+Movie_61,TV Show,Romance,2008,TV-PG,7,,1.9
+Show_1,Movie,Documentary,2004,TV-14,49,UK,1.6
+Movie_30,Movie,Drama,2014,R,27,UK,7.5
+Movie_29,TV Show,Sci-Fi,2001,PG,6,France,1.4
+Movie_125,TV Show,Action,2017,TV-14,3,France,1.2
+Movie_43,Movie,Action,2025,TV-14,130,Brazil,1.8
+Show_72,Movie,Documentary,2022,TV-MA,44,UK,9.0
+Movie_12,TV Show,Documentary,2004,TV-MA,5,India,9.0
+Movie_48,TV Show,Romance,2025,TV-PG,6,UK,9.7
+Movie_81,TV Show,Sci-Fi,2018,R,2,France,2.8
+Movie_44,Movie,Romance,2017,TV-14,170,India,7.2
+Show_74,Movie,Documentary,2020,TV-PG,71,Canada,
+Movie_119,TV Show,Thriller,2011,R,2,Japan,6.9
+Movie_48,Movie,Romance,2009,PG,52,Canada,2.0
+Show_46,TV Show,Comedy,2003,TV-14,9,Brazil,3.4
+Movie_59,TV Show,Comedy,2010,PG,10,Japan,4.1
+Movie_6,Movie,Thriller,2006,TV-MA,167,UK,
+Show_74,TV Show,Action,2003,TV-MA,6,UK,8.0
+Movie_126,TV Show,Romance,2022,TV-14,2,Canada,8.6
+Show_45,Movie,Comedy,2022,TV-MA,161,France,9.1
+Show_8,TV Show,Sci-Fi,2014,TV-14,1,,5.4
+Show_70,TV Show,Documentary,2009,TV-PG,4,Japan,
+Movie_63,Movie,Thriller,2024,TV-14,157,USA,
+Movie_34,Movie,Drama,2013,TV-PG,53,Japan,1.6
+Show_2,TV Show,Action,2006,PG-13,4,Japan,2.7
+Movie_54,TV Show,Documentary,2019,PG-13,5,Canada,2.3
+Show_18,Movie,Romance,2007,TV-14,31,USA,4.7
+Show_18,TV Show,,2025,PG-13,6,Brazil,9.9
+Movie_37,TV Show,Action,2007,TV-MA,9,Canada,9.1
+Movie_119,TV Show,Sci-Fi,2010,R,7,USA,8.5
+Show_38,TV Show,Action,2007,TV-PG,7,USA,7.1
+Movie_7,Movie,Thriller,2009,PG,161,India,4.2
+Movie_123,Movie,Romance,2011,R,156,India,
+Movie_56,Movie,Thriller,2008,PG,176,Japan,8.5
+Movie_19,Movie,Thriller,2015,TV-MA,38,Brazil,
+Movie_14,TV Show,Comedy,2021,TV-PG,3,Japan,4.2
+Show_27,Movie,Sci-Fi,2001,PG,172,Brazil,3.2
+Show_96,TV Show,Romance,2009,R,1,Japan,9.8
+Movie_47,TV Show,Drama,2003,PG,5,France,8.7
+Movie_108,Movie,Romance,2022,PG-13,153,Canada,3.3
+Movie_60,Movie,Action,2012,PG-13,57,Brazil,1.3
+Movie_83,TV Show,Drama,2011,R,10,France,3.5
+Show_15,Movie,Documentary,2007,TV-MA,84,Brazil,2.1
+Show_76,TV Show,Documentary,2022,TV-MA,4,India,2.7
+Movie_146,TV Show,Thriller,2019,PG,2,Canada,6.0
+Show_44,Movie,,2016,TV-14,141,India,7.5
+Show_70,Movie,Romance,2021,PG,62,Brazil,1.7
+Movie_58,Movie,Documentary,,PG-13,63,France,9.5
+Movie_48,Movie,Action,2005,TV-PG,165,Brazil,4.5
+Show_19,Movie,Drama,2019,PG,41,UK,8.7
+Movie_12,Movie,Romance,2016,PG-13,67,,6.6
+Show_13,TV Show,Romance,2002,TV-14,8,Canada,8.8
+Show_54,TV Show,Thriller,2011,TV-14,7,Brazil,1.1
+Show_63,TV Show,,2002,R,5,UK,7.7
+Show_44,Movie,Documentary,2017,TV-PG,36,France,8.0
+Show_39,TV Show,Romance,2001,PG-13,5,Canada,1.5
+Movie_101,Movie,Romance,2006,TV-PG,149,UK,3.7
+Movie_114,Movie,Thriller,2023,PG-13,134,USA,7.0
+Show_51,TV Show,Documentary,2024,PG-13,8,UK,7.7
+Movie_145,TV Show,Drama,2013,R,8,Japan,9.5
+Movie_91,TV Show,Drama,2000,PG-13,4,UK,6.7
+Show_47,TV Show,Drama,2010,PG-13,7,UK,7.7
+Show_30,Movie,Documentary,2015,TV-14,140,USA,5.6
+Show_46,TV Show,Sci-Fi,2002,TV-14,9,Brazil,2.5
+Show_6,Movie,Drama,2009,R,32,USA,8.3
+Show_65,TV Show,Romance,2014,TV-MA,4,Japan,9.0
+Show_49,Movie,Drama,2003,TV-PG,107,Canada,9.5
+Show_53,TV Show,Thriller,2005,PG,10,,9.9
+Movie_135,TV Show,Action,2019,TV-14,9,USA,1.2
+Show_72,TV Show,Sci-Fi,2010,TV-PG,1,India,2.1
+Movie_8,TV Show,Thriller,2009,TV-MA,9,Brazil,5.2
+Show_6,Movie,Documentary,2006,PG-13,36,USA,8.2
+Movie_82,Movie,Romance,2009,PG-13,55,,3.5
+Movie_76,Movie,Thriller,2021,TV-MA,149,Brazil,7.5
+Movie_137,TV Show,Romance,2017,R,4,Japan,2.1
+Show_18,TV Show,Action,2000,PG,3,Brazil,
+Show_48,Movie,Action,2007,TV-PG,64,Canada,2.2
+Movie_26,Movie,Sci-Fi,2022,TV-14,159,USA,9.5
+Movie_95,Movie,Sci-Fi,2003,TV-PG,129,Canada,9.8
+Show_7,Movie,Romance,2016,PG,38,,5.1
+Show_76,TV Show,Thriller,2020,TV-PG,9,UK,9.4
+Show_66,Movie,Thriller,2012,TV-MA,43,Brazil,5.9
+Show_41,Movie,Sci-Fi,2015,PG,176,USA,5.6
+Show_26,Movie,Documentary,2018,PG,126,India,9.3
+Movie_17,TV Show,Drama,2001,TV-14,1,Brazil,5.6
+Show_26,Movie,Thriller,,PG,22,Canada,6.5
+Movie_125,TV Show,Romance,2010,TV-MA,9,Canada,
+Show_26,TV Show,Thriller,2007,TV-MA,2,UK,1.9
+Movie_53,TV Show,,2020,TV-14,6,France,6.3
+Movie_60,Movie,Drama,2005,R,146,India,
+Movie_79,TV Show,Romance,2018,R,4,Brazil,6.3
+Movie_30,TV Show,Drama,2008,TV-MA,5,Brazil,8.1
+Movie_123,Movie,,2009,PG,54,Brazil,2.2
+Movie_28,TV Show,Sci-Fi,2019,TV-PG,6,Brazil,9.1
+Movie_1,TV Show,Comedy,2020,R,4,Brazil,9.1
+Movie_98,Movie,Action,2004,R,42,,7.1
+Movie_53,Movie,Comedy,2009,TV-MA,92,France,9.3
+Show_74,Movie,Comedy,2015,PG,40,USA,9.0
+Movie_32,Movie,Documentary,2007,PG,49,France,5.9
+Movie_81,Movie,Romance,2009,TV-PG,143,Canada,8.7
+Movie_136,TV Show,Drama,2011,R,3,USA,6.7
+Show_43,TV Show,Romance,2005,PG,5,Japan,5.1
+Movie_120,Movie,Comedy,2023,TV-PG,62,Canada,2.2
+Show_95,TV Show,Drama,2015,TV-MA,5,India,3.6
+Show_46,Movie,Drama,2024,TV-PG,126,Brazil,5.6
+Movie_23,Movie,Sci-Fi,2014,TV-14,31,Brazil,2.8
+Show_36,Movie,Documentary,2007,TV-14,147,France,4.0
+Show_68,TV Show,Sci-Fi,2025,PG,9,Japan,9.0
+Movie_78,TV Show,Drama,2024,R,2,USA,6.9
+Show_33,Movie,Thriller,2009,PG-13,163,Brazil,5.5
+Movie_109,Movie,Romance,2015,R,119,India,9.1
+Movie_126,Movie,Sci-Fi,2016,TV-MA,47,India,2.3
+Show_71,Movie,Thriller,2001,R,142,France,7.4
+Show_5,Movie,Documentary,2005,PG-13,97,India,7.6
+Show_11,TV Show,Thriller,2009,TV-PG,8,India,4.0
+Movie_3,Movie,Romance,2020,TV-MA,118,France,3.1
+Movie_99,Movie,,2010,PG,126,USA,8.6
+Show_55,TV Show,,2024,TV-14,8,UK,9.2
+Show_51,Movie,Action,2001,PG,172,Japan,9.7
+Show_20,TV Show,Thriller,2019,TV-PG,9,Canada,3.2
+Movie_1,TV Show,Drama,2004,PG,9,France,9.2
+Show_82,TV Show,Documentary,2023,R,5,Japan,
+Show_67,Movie,Thriller,2012,TV-PG,87,France,9.5
+Show_94,TV Show,Drama,2017,TV-14,3,UK,7.8
+Movie_70,Movie,Romance,2012,TV-14,179,India,5.4
+Show_92,Movie,Thriller,2023,PG-13,25,USA,7.4
+Movie_133,TV Show,Sci-Fi,2024,PG,5,Japan,5.1
+Show_64,Movie,Action,2017,PG,128,France,8.8
+Movie_90,TV Show,Romance,2017,TV-MA,10,Brazil,7.2
+Show_68,TV Show,Drama,2003,TV-PG,6,India,
+Movie_43,TV Show,Documentary,2017,PG-13,3,Canada,9.3
+Movie_3,TV Show,Romance,2013,TV-14,8,India,5.5
+Movie_143,Movie,Documentary,2009,PG,129,UK,8.1
+Movie_22,Movie,Documentary,2003,TV-PG,67,Brazil,7.7
+Show_12,TV Show,Romance,2014,PG-13,1,Brazil,1.8
+Show_27,Movie,Sci-Fi,2014,R,29,Japan,3.6
+Movie_30,Movie,Drama,2019,PG,70,France,8.9
+Movie_52,Movie,Documentary,2005,PG-13,116,Japan,5.9
+Movie_27,Movie,Action,2004,PG,142,Canada,9.2
+Show_88,Movie,Sci-Fi,2018,TV-MA,177,Canada,
+Show_99,TV Show,Action,2018,TV-14,4,India,
+Movie_122,Movie,Documentary,2019,R,48,Japan,4.2
+Movie_126,TV Show,Documentary,2018,TV-MA,3,Brazil,3.6
+Movie_127,TV Show,Comedy,2019,R,2,USA,6.8
+Movie_86,Movie,Sci-Fi,2004,PG-13,57,,6.3
+Show_72,TV Show,Thriller,2022,R,9,Canada,4.8
+Movie_116,Movie,Documentary,2009,TV-14,55,UK,9.9
+Show_43,TV Show,Thriller,2006,TV-14,3,Canada,1.4
+Movie_5,TV Show,Documentary,2019,TV-PG,9,France,3.9
+Show_2,Movie,Thriller,2003,TV-PG,75,Canada,5.9
+Movie_116,Movie,Romance,2018,R,163,France,5.9
+Movie_113,TV Show,Comedy,2010,PG,8,Brazil,8.8
+Movie_4,Movie,Drama,2020,R,126,Brazil,7.4
+Show_38,TV Show,Thriller,2017,PG-13,7,France,2.5
+Show_28,Movie,Romance,2017,PG-13,32,USA,3.5
+Movie_106,Movie,Thriller,2003,TV-MA,79,USA,3.6
+Show_83,Movie,Documentary,2013,TV-PG,105,Brazil,3.1
+Movie_68,Movie,Romance,2023,PG,86,France,
+Show_79,TV Show,Sci-Fi,2020,PG,9,India,8.3
+Movie_92,TV Show,Thriller,2023,PG-13,5,Japan,2.0
+Show_59,TV Show,Romance,2023,TV-14,9,UK,3.6
+Show_14,Movie,Drama,2021,TV-PG,165,India,8.0
+Show_48,TV Show,Romance,2014,PG-13,6,Japan,8.6
+Movie_138,TV Show,Action,2023,PG-13,8,France,9.1
+Movie_73,TV Show,Drama,2002,TV-14,3,Brazil,5.2
+Show_8,Movie,Romance,2011,PG,85,France,
+Show_13,TV Show,Drama,2009,R,3,USA,6.5
+Movie_79,TV Show,Action,2011,R,9,Brazil,1.9
+Show_70,TV Show,Documentary,2017,R,4,UK,5.0
+Show_97,Movie,Drama,2023,PG,174,India,7.0
+Movie_125,Movie,Thriller,2023,TV-14,51,USA,6.1
+Movie_2,Movie,Comedy,2009,PG,118,USA,7.1
+Movie_41,Movie,Documentary,2024,R,88,Brazil,9.2
+Movie_57,TV Show,Action,2023,PG-13,7,UK,7.1
+Movie_120,Movie,Documentary,2023,TV-14,34,India,3.0
+Show_29,Movie,Thriller,2006,PG-13,110,France,4.0
+Movie_148,Movie,Comedy,2007,TV-14,91,France,1.8
+Show_83,Movie,Drama,2023,TV-PG,141,Canada,5.7
+Movie_137,Movie,Romance,2019,R,109,India,3.5
+Movie_125,Movie,Thriller,2001,TV-14,63,India,2.3
+Show_88,Movie,Sci-Fi,2023,R,21,,2.4
+Show_22,Movie,Thriller,2009,PG-13,105,UK,
+Movie_92,TV Show,Sci-Fi,2018,PG-13,5,India,
+Movie_43,TV Show,Romance,2017,R,2,India,3.5
+Show_95,TV Show,Sci-Fi,2014,TV-PG,8,UK,3.1
+Movie_72,TV Show,Sci-Fi,2015,TV-MA,2,Brazil,4.7
+Show_6,Movie,Thriller,2006,TV-PG,164,India,
+Movie_122,Movie,Comedy,2000,PG,73,UK,2.7
+Movie_91,Movie,Romance,2018,PG-13,132,India,9.0
+Show_53,TV Show,Action,2007,PG-13,2,UK,4.2
+Movie_98,Movie,Comedy,2024,TV-14,97,Brazil,8.7
+Show_74,Movie,Sci-Fi,2016,R,174,USA,7.9
+Movie_13,TV Show,Documentary,2012,TV-14,1,USA,3.9
+Movie_18,Movie,Documentary,2010,TV-PG,63,Brazil,2.6
+Movie_64,TV Show,,2006,PG,8,Brazil,2.0
+Show_30,TV Show,Drama,2008,TV-14,2,India,5.7
+Movie_68,TV Show,Comedy,2016,PG,5,UK,
+Movie_144,Movie,Thriller,2010,TV-MA,98,UK,8.4
+Movie_141,Movie,Documentary,2010,TV-PG,43,France,5.8
+Show_43,Movie,Sci-Fi,2001,PG-13,175,Japan,7.8
+Movie_71,TV Show,Sci-Fi,2008,R,7,Brazil,7.1
+Movie_134,Movie,Drama,2001,PG,73,USA,5.6
+Show_59,Movie,Action,2009,PG-13,38,USA,8.4
+Movie_61,Movie,Thriller,2020,R,44,Brazil,6.0
+Movie_119,TV Show,Action,2007,TV-14,4,USA,1.5
+Show_13,TV Show,,,PG,10,Brazil,
+Movie_124,Movie,Comedy,,TV-14,113,Brazil,5.8
+Show_41,TV Show,Thriller,2021,R,5,India,1.3
+Show_78,TV Show,Action,2023,TV-PG,6,USA,8.3
+Show_86,Movie,Action,2001,TV-14,178,USA,1.0
