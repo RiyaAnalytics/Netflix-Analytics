@@ -1,13 +1,13 @@
 🎬 Netflix Content Analysis Dashboard
 
-Python | Pandas | NumPy | Data Analysis | Visualization
+Python | Pandas | NumPy | Exploratory Data Analysis | Data Visualization
 
 📌 Project Overview
 
-Netflix manages a vast and diverse content library across genres, countries, and release years.
-The goal of this project is to analyze Netflix’s content catalog to uncover content distribution patterns, growth trends, and genre insights that could support content strategy and decision-making.
+● Netflix manages a vast and diverse content library across genres, countries, and release years.
+● This project analyzes Netflix’s content catalog to uncover content distribution patterns, growth trends, and genre insights that can support content strategy and data-driven decision-making.
 
-This project simulates a real-world data analyst task: transforming raw content data into actionable insights using Python.
+● The project simulates a real-world Data Analyst use case, transforming raw content data into actionable insights using Python.
 
 🎯 Business Problem
 
@@ -17,7 +17,7 @@ This project simulates a real-world data analyst task: transforming raw content 
 
 ● Which genres dominate the platform?
 
-● How can analysts quickly explore content trends without manual analysis?
+● How can analysts efficiently explore large content datasets without manual analysis?
 
 🛠 Approach & Methodology
 1️⃣ Data Cleaning & Preparation
@@ -26,7 +26,7 @@ This project simulates a real-world data analyst task: transforming raw content 
 
 ● Standardized date and categorical fields
 
-● Ensured data consistency for analysis
+● Ensured data consistency and reliability for analysis
 
 2️⃣ Exploratory Data Analysis (EDA)
 
@@ -52,28 +52,30 @@ This project simulates a real-world data analyst task: transforming raw content 
 
 ● Ratings by country (interactive charts)
 
-● Developed an interactive dashboard using Dash to filter content by genre and explore trends dynamically
+● Developed an interactive dashboard using Dash to dynamically filter content by genre and explore trends
 
 📊 Key Insights
 
 ● Certain genres dominate Netflix’s catalog, indicating strong content focus areas
 
-● Content production has increased significantly in recent years, reflecting platform growth
+● Content production has increased significantly in recent years, reflecting platform expansion
 
-● Genre distribution varies by country, highlighting regional content preferences. 
+● Genre distribution varies by country, highlighting regional content preferences
 
 📈 Sample Visualizations
 
+● Genre Distribution
 ![Genre Distribution](genre_distribution.png)
 
-
+● Content Release Trend
 ![Release Trend](release_trend.png)
+
 
 
 
 📁 Project Files
 
-● netflix_analysis.ipynb — Data cleaning, analysis, and visualizations
+● netflix_analysis.ipynb — Data cleaning, EDA, and visualizations
 
 ● netflix_data.csv — Dataset (250 Netflix titles)
 
@@ -85,25 +87,27 @@ This project simulates a real-world data analyst task: transforming raw content 
 
 🚀 Business Value
 
-This project demonstrates how Python-based analytics can:
+● This project demonstrates how Python-based analytics can:
 
 ● Improve analysis efficiency
 
-● Reveal hidden trends in large datasets
+● Reveal trends hidden in raw datasets
 
-● Support data-driven decisions for content planning and strategy
+● Support strategic decisions related to content planning and acquisition
 
-📊Impact 
+📊 Impact & Learnings
 
-This project shows my ability to clean real-world datasets, perform exploratory analysis, and convert findings into visual insights. It simulates how data analysts support business teams by identifying trends and making complex data easier to understand.
+● Strengthened skills in data cleaning, EDA, and visualization using Python
 
-📎 How to Run 
+● Improved ability to translate analytical findings into business insights
 
-● Install dependencies:
-pip install pandas matplotlib seaborn plotly dash
+● Simulated how data analysts support stakeholders by simplifying complex datasets into clear visual narratives
+
+📎 How to Run
+
+● pip install pandas matplotlib seaborn plotly dash
+
 
 ● Run netflix_analysis.ipynb
 
 ● Open ratings_by_country.html or launch the Dash app
-
-
